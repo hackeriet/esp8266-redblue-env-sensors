@@ -1,6 +1,6 @@
 # esp8266-redblue-env-sensors
 
-This is micropython code for esp8266 sensors running at hackeriet
+This is (bad) micropython code for esp8266 sensors running at hackeriet
 
 To upload the code to the sensors, you need `ampy`. To access the REPL you can use something like `screen /dev/ttyUSB0 115200`
 
