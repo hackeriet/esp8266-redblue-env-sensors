@@ -6,3 +6,7 @@ To upload the code to the sensors, you need `ampy`. To access the REPL you can u
 
 - https://micropython.org/
 - https://pypi.org/project/adafruit-ampy/
+
+You need to upload a `config.json` that contains stuff like wifi credentials, mqtt credentials, etc.
+
+TODO: write more meaningful things
